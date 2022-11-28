@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d6b9827b.css",
+    "main.js": "/static/js/main.81c42b73.js",
+    "static/media/Internship.jpeg": "/static/media/Internship.80c69996ab0f14cf2a9d.jpeg",
+    "static/media/nblogScreen.png": "/static/media/nblogScreen.573efeb562f517fd566e.png",
+    "static/media/format.png": "/static/media/format.e844253ae3fda31e05c6.png",
+    "static/media/mblogScreen.png": "/static/media/mblogScreen.f75d09ac7128a73ffb05.png",
+    "static/media/picLab.jpeg": "/static/media/picLab.3c7dc97a2d46ec46351c.jpeg",
+    "index.html": "/index.html",
+    "main.d6b9827b.css.map": "/static/css/main.d6b9827b.css.map",
+    "main.81c42b73.js.map": "/static/js/main.81c42b73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6b9827b.css",
+    "static/js/main.81c42b73.js"
+  ]
+}
