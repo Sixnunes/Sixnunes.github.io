@@ -8,7 +8,7 @@ function Blog() {
   return (
     <>
     <BlogTitle id='blog'>Minha Coluna</BlogTitle>
-    <a  href="https://sweet-panda-9da7c7.netlify.app" target="_blank" rel="noopener noreferrer" title="Visite meu blog, Informe-se sobre saúde">
+    <a  href="https://www.danielndourado.com/dnd/" target="_blank" rel="noopener noreferrer" title="Visite meu blog, Informe-se sobre saúde">
       <BlogWrapper id='blogLink'/>
     </a>
     </>
